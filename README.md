@@ -9,12 +9,11 @@ This repository contains data for the manuscript:
 ### Repository Information
 
 #### 📁 Figures & Tables
-Main and supplemental figures and tables included in the manuscript.
+Supplemental figures and tables included in the manuscript.
 
 | File | Description | Download |
 | :--- | :--- | :---: |
-| **figures.zip** | Main figures included in the manuscript text | [📥 Download](https://github.com/conorcopeland3/TWAS2026/releases/download/v1.0/figures.zip) |
-| **tables.zip** | Main tables included in the manuscript text | [📥 Download](https://github.com/conorcopeland3/TWAS2026/releases/download/v1.0/tables.zip) |
+
 | **supp_tables.zip** | Supplemental tables (e.g., Table S1, S2, etc.) | [📥 Download](https://github.com/conorcopeland3/TWAS2026/releases/download/1.2/Supp_tables.zip) |
 
 ---
